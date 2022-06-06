@@ -1070,7 +1070,7 @@ body {
 
 .footer__container {
     height: 145px;
-    margin: 0 auto;
+    
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -1087,7 +1087,7 @@ body {
 }
 
 .footer__menu-item {
-    margin-right: 87px;
+    margin-right: 135px;
 }
 
 .footer__menu-item:last-of-type {
